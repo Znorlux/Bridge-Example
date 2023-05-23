@@ -1,0 +1,15 @@
+C:\Users\mabe0\source\repos\BridgeExample\obj\Debug\net7.0\BridgeExample.csproj.AssemblyReference.cache
+C:\Users\mabe0\source\repos\BridgeExample\obj\Debug\net7.0\BridgeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabe0\source\repos\BridgeExample\obj\Debug\net7.0\BridgeExample.AssemblyInfoInputs.cache
+C:\Users\mabe0\source\repos\BridgeExample\obj\Debug\net7.0\BridgeExample.AssemblyInfo.cs
+C:\Users\mabe0\source\repos\BridgeExample\obj\Debug\net7.0\BridgeExample.csproj.CoreCompileInputs.cache
+C:\Users\mabe0\source\repos\BridgeExample\bin\Debug\net7.0\BridgeExample.exe
+C:\Users\mabe0\source\repos\BridgeExample\bin\Debug\net7.0\BridgeExample.deps.json
+C:\Users\mabe0\source\repos\BridgeExample\bin\Debug\net7.0\BridgeExample.runtimeconfig.json
+C:\Users\mabe0\source\repos\BridgeExample\bin\Debug\net7.0\BridgeExample.dll
+C:\Users\mabe0\source\repos\BridgeExample\bin\Debug\net7.0\BridgeExample.pdb
+C:\Users\mabe0\source\repos\BridgeExample\obj\Debug\net7.0\BridgeExample.dll
+C:\Users\mabe0\source\repos\BridgeExample\obj\Debug\net7.0\refint\BridgeExample.dll
+C:\Users\mabe0\source\repos\BridgeExample\obj\Debug\net7.0\BridgeExample.pdb
+C:\Users\mabe0\source\repos\BridgeExample\obj\Debug\net7.0\BridgeExample.genruntimeconfig.cache
+C:\Users\mabe0\source\repos\BridgeExample\obj\Debug\net7.0\ref\BridgeExample.dll
